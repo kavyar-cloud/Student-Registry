@@ -2,7 +2,7 @@
 
 A full-featured **Student Management Table** built with React.js + Vite. All CRUD operations are handled entirely on the frontend using in-memory state — no backend required.
 
-> **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app) ← replace after deploying
+> **Live Demo:** 
 
 ---
 
