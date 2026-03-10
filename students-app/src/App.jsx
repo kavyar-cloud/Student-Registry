@@ -117,8 +117,8 @@ function StudentForm({ initial, onSave, onCancel, title }) {
       <h2 style={{ margin: "0 0 24px", color: "#e8edf7", fontSize: 22, fontFamily: "'Syne', sans-serif" }}>{title}</h2>
 
       {[
-        { field: "name", label: "Full Name", type: "text", placeholder: "e.g. Ada Lovelace" },
-        { field: "email", label: "Email Address", type: "email", placeholder: "e.g. ada@university.edu" },
+        { field: "name", label: "Full Name", type: "text", placeholder: "e.g. Kavya" },
+        { field: "email", label: "Email Address", type: "email", placeholder: "e.g. kavya@gmail.com" },
         { field: "age", label: "Age", type: "number", placeholder: "e.g. 21" },
       ].map(({ field, label, type, placeholder }) => (
         <div key={field} style={{ marginBottom: 18 }}>
