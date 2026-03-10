@@ -2,7 +2,7 @@
 
 A full-featured **Student Management Table** built with React.js + Vite. All CRUD operations are handled entirely on the frontend using in-memory state — no backend required.
 
-> **Live Demo:** 
+> **Live Demo:**  https://student-registry-phi.vercel.app/
 
 ---
 
